@@ -7,3 +7,9 @@
 [submodule "nutyx"]
 	path = nutyx
 	url = https://github.com/KetchupOS/nutyx.git
+[submodule "./cards"]
+	branch = master
+[submodule "./packages-x86_64/"]
+	branch = master
+[submodule "./nutyx/"]
+	branch = master
