@@ -1,15 +1,13 @@
 [submodule "packages-x86_64"]
 	path = packages-x86_64
 	url = https://github.com/KetchupOS/packages-x86_64.git
-[submodule "cards"]
-	path = cards
-	url = https://github.com/KetchupOS/cards.git
 [submodule "nutyx"]
 	path = nutyx
 	url = https://github.com/KetchupOS/nutyx.git
-[submodule "./cards"]
-	branch = master
 [submodule "./packages-x86_64/"]
 	branch = master
 [submodule "./nutyx/"]
 	branch = master
+[submodule "cards"]
+	path = cards
+	url = https://github.com/KetchupOS/cards.git
