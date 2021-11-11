@@ -8,6 +8,3 @@
 	branch = master
 [submodule "./nutyx/"]
 	branch = master
-[submodule "cards"]
-	path = cards
-	url = https://github.com/KetchupOS/cards.git
