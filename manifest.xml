@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="ketos-repo"
+           fetch="https://github.com/KetchupOS"
+           revision="master" />
+
+  <default remote="ketos-repo"
+           revision="master" />
+
+
+  <project name="nutyx" groups="all"/>
+  <project name="cards" groups="all"/>
+  <project name="packages-x86_64" groups="all"/>
+</manifest>
