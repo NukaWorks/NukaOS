@@ -13,5 +13,6 @@ chmod a+rx ~/.bin/repo
 #### Sync the source-tree
 
 ```sh
+repo init -u https://github.com/KetchupOS/KetchupOS-default.git -b master
 repo sync
 ```
