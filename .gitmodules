@@ -1,6 +1,0 @@
-[submodule "./packages-x86_64/"]
-	branch = master
-[submodule "./nutyx/"]
-	branch = master
-[submodule "./cards"]
-	branch = master
