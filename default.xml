@@ -10,5 +10,5 @@
 
   <project name="nutyx" groups="all"/>
   <project name="cards" groups="all"/>
-  <project name="packages-x86_64" groups="all"/>
+  <project name="packages-x86_64" groups="all" revision="testing" />
 </manifest>
