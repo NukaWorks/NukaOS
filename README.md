@@ -1,5 +1,8 @@
 # KetchupOS - The Main repository  
 
+This repo contains the default config for build a clean source-tree.
+It's contains also some stuff likes the KetchupOS (keOS) logo on **Icons/** folder.
+
 ### Cloning the source-tree
 #### Installing repo
 
