@@ -3,6 +3,10 @@
   <remote  name="ketos-repo"
            fetch="https://github.com/KetchupOS"
            revision="master" />
+  
+  <remote  name="nutyx-repo"
+           fetch="https://github.com/NuTyX"
+           revision="master" />
 
   <default remote="ketos-repo"
            revision="master" />
@@ -10,5 +14,5 @@
 
   <project name="nutyx" groups="all"/>
   <project name="cards" groups="all"/>
-  <project name="packages-x86_64" groups="all" revision="testing" />
+  <project name="packages-x86_64" groups="all" remote="nutyx-repo" revision="testing" />
 </manifest>
