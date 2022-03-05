@@ -77,6 +77,12 @@ repo sync
 
 #### For update the source-tree
 
+**NukaOS** evolve with the time, so you need to keep the source-tree fully updated with the **repo** tool by using a few commands.
+
+```sh
+# Paste-it on your terminal and press enter.
+repo update
+```
 
 ## Building NukaOS
 
