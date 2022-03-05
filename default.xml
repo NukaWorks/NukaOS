@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <!-- Default repository -->
+  
   <remote  name="nukaworks_github"
            fetch="https://github.com/NukaWorks"
            revision="master" />
@@ -7,8 +9,9 @@
   <default remote="nukaworks_github"
            revision="master" />
 
+  <!-- Core Dependencies -->
 
-  <project name="nutyx" groups="all"/>
-  <project name="cards" groups="all"/>
-  <project name="packages-x86_64" groups="all" remote="nutyx-repo" revision="testing" />
+  <project name="CoreKernel" />
+  <project name="CorePackages" />
+  <project name="CoreSystem" />
 </manifest>
