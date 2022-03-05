@@ -17,7 +17,7 @@ It's also contains stuff likes the NukaOS logo on the [**Icons**](https://github
 
 ### Before you start
 
-***PlaceHolder***
+ℹ️  **NukaOS** is licensed under the [**GNU General Public License v3.0**](https://github.com/NukaWorks/NukaOS/blob/master/LICENSE).
 
 ### Contributing
 
