@@ -75,6 +75,9 @@ repo init -u https://github.com/NukaWorks/NukaOS.git -b master
 repo sync
 ```
 
+#### For update the source-tree
+
+
 ## Building NukaOS
 
 ***PlaceHolder***
