@@ -23,12 +23,12 @@ It's also contains stuff likes the NukaOS logo on the [**Icons**](https://github
 
 ***PlaceHolder***
 
-### Cloning the source-tree
+## Cloning the source-tree
 
 ⚠️  Make sure if [**git**](https://git-scm.com/) and the **repo** tool (see below), is properly installed on your host system.
 
-#### Manage the project with repo
-##### What is "repo" ?
+### Manage the project with repo
+#### What is "repo" ?
 
 *❝**repo** - The Multiple Git Repository Tool❞* - The repo tool is very useful for manage big project like Android (Android uses the **repo** tool.) so that why NukaOS uses the **repo** tool.
 
@@ -37,7 +37,7 @@ The **repo** tool will read a file called ``default.xml``, the manifest. Finally
 ℹ️  **repo** can also update all projects one-time by typing the ``repo update`` command.
 
 
-##### Installing the "repo" tool
+#### Installing the "repo" tool
 
 First of all, you need to open a terminal which using a bash prompt and copy-paste commands below on your terminal.
 
