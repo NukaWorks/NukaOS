@@ -4,10 +4,6 @@
            fetch="https://github.com/KetchupOS"
            revision="master" />
   
-  <remote  name="nutyx-repo"
-           fetch="https://github.com/NuTyX"
-           revision="master" />
-
   <default remote="ketos-repo"
            revision="master" />
 
