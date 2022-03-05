@@ -9,7 +9,8 @@
 ### About this repository
 
 This repo contains the default config for build a clean source-tree.
-It's also contains stuff likes the NukaOS logo on the [**Icons**](https://github.com/NukaWorks/NukaOS/tree/master/Icons/) folder.
+It's also contains stuff likes the NukaOS logo on the [**Icons**](https://github.com/NukaWorks/NukaOS/tree/master/Icons/) folder.  
+It's also contains others things like documentation, scripts and screenshots.
 
 <hr />
 
