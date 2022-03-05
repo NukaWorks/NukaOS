@@ -1,7 +1,7 @@
 # NukaOS - The Main repository  
 
 This repo contains the default config for build a clean source-tree.
-It's contains also some stuff likes the NukaOS (keOS) logo on **Icons/** folder.
+It's contains also some stuff likes the NukaOS logo on **Icons/** folder.
 
 ### Cloning the source-tree
 #### Installing repo
