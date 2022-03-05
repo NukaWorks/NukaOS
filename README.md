@@ -60,14 +60,14 @@ export PATH="${HOME}/.bin:${PATH}"
 
 As you can see, while you relaunch a terminal, the **repo** tool is now available.
 
-#### Sync the source-tree
+### Sync the source-tree
 
 Once the **git** and the **repo** setup, you can now clone the source-tree with it.  
 Please move into a clean directory, you can make a `~/Projects/` Directory if you want.
 
 ⚠️  **Check if your host system have 20gb of free, if not, the operation can fails.**
 
-##### Clone & Sync NukaOS
+#### Clone & Sync NukaOS
 
 ```sh
 # Paste-it on your terminal and press enter.
