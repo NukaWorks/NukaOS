@@ -27,7 +27,7 @@ It's also contains stuff likes the NukaOS logo on the [**Icons**](https://github
 
 ⚠️  Make sure if [**git**](https://git-scm.com/) and the **repo** tool (see below), is properly installed on your host system.
 
-#### The powerful repo tool
+#### Manage the project with repo
 ##### What is "repo" ?
 
 *❝**repo** - The Multiple Git Repository Tool❞* - The repo tool is very useful for manage big project like Android (Android uses the **repo** tool.) so that why NukaOS uses the **repo** tool.
@@ -75,7 +75,7 @@ repo init -u https://github.com/NukaWorks/NukaOS.git -b master
 repo sync
 ```
 
-#### Building NukaOS
+## Building NukaOS
 
 ***PlaceHolder***
 
