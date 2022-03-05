@@ -75,7 +75,7 @@ repo init -u https://github.com/NukaWorks/NukaOS.git -b master
 repo sync
 ```
 
-#### For update the source-tree
+#### Update the source-tree
 
 **NukaOS** evolve with the time, so you need to keep the source-tree fully updated with the **repo** tool by using a few commands.
 
