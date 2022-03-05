@@ -1,7 +1,7 @@
-# KetchupOS - The Main repository  
+# NukaOS - The Main repository  
 
 This repo contains the default config for build a clean source-tree.
-It's contains also some stuff likes the KetchupOS (keOS) logo on **Icons/** folder.
+It's contains also some stuff likes the NukaOS (keOS) logo on **Icons/** folder.
 
 ### Cloning the source-tree
 #### Installing repo
@@ -15,6 +15,7 @@ chmod a+rx ~/.bin/repo
 #### Sync the source-tree
 
 ```sh
-repo init -u https://github.com/KetchupOS/KetchupOS.git -b master
+repo init -u https://github.com/NukaWorks/NukaOS.git -b master
 repo sync
 ```
+
