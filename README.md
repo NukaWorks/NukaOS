@@ -2,7 +2,7 @@
 
 ## Overview
 
-### What is nukaOS ?
+### What is NukaOS ?
 
 **NukaOS** is a fully free & opensource UNIX like operating system which target power & performance, a fully featured graphical user interface **(Workspace)** using the **NukaUI** design system.
 
