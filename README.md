@@ -25,7 +25,7 @@ It's also contains stuff likes the NukaOS logo on the [**Icons**](https://github
 
 ### Cloning the source-tree
 
-⚠️  Make sure if [**git**](https://git-scm.com/) is properly installed on your host system.
+⚠️  Make sure if [**git**](https://git-scm.com/) and the **repo** tool (see below), is properly installed on your host system.
 
 #### The powerful repo tool
 ##### What is "repo" ?
@@ -62,7 +62,7 @@ As you can see, while you relaunch a terminal, the **repo** tool is now availabl
 
 #### Sync the source-tree
 
-After the **repo** setup, you can now clone the source-tree with it.  
+Once the **git** and the **repo** setup, you can now clone the source-tree with it.  
 Please move into a clean directory, you can make a `~/Projects/` Directory if you want.
 
 ⚠️  **Check if your host system have 20gb of free, if not, the operation can fails.**
