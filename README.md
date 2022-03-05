@@ -30,7 +30,7 @@ It's also contains stuff likes the NukaOS logo on the [**Icons**](https://github
 #### The powerful repo tool
 ##### What is "repo" ?
 
-*❝ **repo** - The Multiple Git Repository Tool ❞* - The repo tool is very useful for manage big project like Android (Android uses the **repo** tool.) so that why NukaOS uses **repo**.
+*❝**repo** - The Multiple Git Repository Tool❞* - The repo tool is very useful for manage big project like Android (Android uses the **repo** tool.) so that why NukaOS uses **repo**.
 
 The **repo** tool will read a file called ``default.xml``, the manifest. Finally repo will clone needed dependencies (specified in the manifest) on the project root directory.
 
