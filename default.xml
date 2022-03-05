@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote  name="ketos-repo"
-           fetch="https://github.com/KetchupOS"
+  <remote  name="nukaworks_github"
+           fetch="https://github.com/NukaWorks"
            revision="master" />
   
-  <default remote="ketos-repo"
+  <default remote="nukaworks_github"
            revision="master" />
 
 
