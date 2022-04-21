@@ -11,7 +11,7 @@
 
   <!-- Core Dependencies -->
 
-  <project name="CoreKernel" />
+  <project name="CoreBSD" />
   <project name="CorePackages" />
   <project name="CoreSystem" />
 </manifest>
