@@ -9,7 +9,8 @@
 ### Idea & Concepts
 
 The main objectif targeted is build a **fast and powerful** operating system, with the power of a **UNIX** system and a powerful & unique desktop environement.  
-The whole **NukaWorks** ecosystem is fully build from scratch, like the GUI, CoreSystem and apps, all things except the kernel **(Linux Based)**.  
+The whole **NukaWorks** ecosystem is build from scratch & we reuse forked projects.
+like the Shell, CoreSystem and apps, and CoreBSD is re-imagined for a fully responsive & seamless usability.
 We using the modern [**Rust**](https://www.rust-lang.org/) programing language, because it's a fully featured, fast and updated programing language.
 
 ### About this repository
