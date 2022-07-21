@@ -1,10 +1,10 @@
-<h1 align="center">NukaOS - The Main repository</h1>
+<h1 align="center">PowerOS - The Main repository</h1>
 
 ## Overview
 
-### What is NukaOS ?
+### What is PowerOS ?
 
-**NukaOS** is a fully free & opensource UNIX like operating system which target power & performance, a fully featured graphical user interface **(Workspace)** using the **NukaUI** design system.
+**PowerOS** is a fully free & opensource UNIX like operating system which target power & performance, a fully featured graphical user interface **(Workspace)** using the **NukaUI** design system.
 
 ### Idea & Concepts
 
@@ -16,7 +16,7 @@ We using the modern [**Rust**](https://www.rust-lang.org/) programing language, 
 ### About this repository
 
 This repo contains the default config for build a clean source-tree.
-It's also contains stuff likes the NukaOS logo on the [**Icons**](https://github.com/NukaWorks/NukaOS/tree/master/Icons/) folder.  
+It's also contains stuff likes the PowerOS logo on the [**Icons**](https://github.com/NukaWorks/PowerOS/tree/master/Icons/) folder.  
 It's also contains others things like documentation, scripts and screenshots.
 
 <hr />
@@ -25,7 +25,7 @@ It's also contains others things like documentation, scripts and screenshots.
 
 ### Before you start
 
-ℹ️  **NukaOS** is licensed under the [**GNU General Public License v3.0**](https://github.com/NukaWorks/NukaOS/blob/master/LICENSE).
+ℹ️  **PowerOS** is licensed under the [**GNU General Public License v3.0**](https://github.com/NukaWorks/PowerOS/blob/master/LICENSE).
 
 ### Contributing
 
@@ -38,7 +38,7 @@ It's also contains others things like documentation, scripts and screenshots.
 ### Manage the project with repo
 #### What is "repo" ?
 
-*❝**repo** - The Multiple Git Repository Tool❞* - The repo tool is very useful for manage big project like Android ([***Android***](https://www.android.com/) uses the **repo** tool.) so that why NukaOS uses the **repo** tool.
+*❝**repo** - The Multiple Git Repository Tool❞* - The repo tool is very useful for manage big project like Android ([***Android***](https://www.android.com/) uses the **repo** tool.) so that why PowerOS uses the **repo** tool.
 
 The **repo** tool will read a file called ``default.xml``, the manifest. Finally repo will clone needed dependencies (specified in the manifest) on the project root directory.
 
@@ -75,24 +75,24 @@ Please move into a clean directory, you can make a `~/Projects/` Directory if yo
 
 ⚠️  **Check if your host system have 20gb of free, if not, the operation can fails.**
 
-#### Clone & Sync NukaOS
+#### Clone & Sync PowerOS
 
 ```sh
 # Paste-it on your terminal and press enter.
-repo init -u https://github.com/NukaWorks/NukaOS.git -b master
+repo init -u https://github.com/NukaWorks/PowerOS.git -b master
 repo sync
 ```
 
 #### Update the source-tree
 
-**NukaOS** evolve with the time, so you need to keep the source-tree fully updated with the **repo** tool by using a few commands.
+**PowerOS** evolve with the time, so you need to keep the source-tree fully updated with the **repo** tool by using a few commands.
 
 ```sh
 # Paste-it on your terminal and press enter.
 repo update
 ```
 
-## Building NukaOS
+## Building PowerOS
 
 ***PlaceHolder***
 
